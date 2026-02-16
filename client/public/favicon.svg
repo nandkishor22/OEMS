@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f97316;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ef4444;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Ticket Shape with Side Cutouts -->
+  <path d="M96 64h320c17.7 0 32 14.3 32 32v66.3c-23.9 10.6-40.6 34.6-40.6 62.4 0 27.8 16.7 51.8 40.6 62.4V416c0 17.7-14.3 32-32 32H96c-17.7 0-32-14.3-32-32v-66.3c23.9-10.6 40.6-34.6 40.6-62.4 0-27.8-16.7-51.8-40.6-62.4V96c0-17.7 14.3-32 32-32z" 
+        fill="url(#grad)"/>
+  
+  <!-- "E" Letter -->
+  <text x="256" y="256" font-family="Arial, sans-serif" font-weight="900" font-size="280" text-anchor="middle" dominant-baseline="central" fill="white" style="text-shadow: 4px 4px 8px rgba(0,0,0,0.2);">E</text>
+</svg>
